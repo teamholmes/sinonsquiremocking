@@ -1,0 +1,30 @@
+{
+  "name": "das",
+  "version": "1.0.0",
+  "description": "sa",
+  "main": "index.js",
+  "dependencies": {
+    "karma": "^0.13.11",
+    "karma-mocha": "^0.2.0",
+    "sinon": "^1.17.1"
+  },
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "karma": "^0.13.11",
+    "karma-chai": "^0.1.0",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-requirejs": "^0.2.0",
+    "karma-sinon": "^1.0.4",
+    "karma-sinon-chai": "^0.2.0",
+    "mocha": "^2.3.3",
+    "phantomjs": "^1.9.18",
+    "requirejs": "^2.1.20",
+    "sinon-chai": "^2.8.0",
+    "squirejs": "^0.2.0"
+  },
+  "scripts": {
+    "test": "karma"
+  },
+  "author": "",
+  "license": "ISC"
+}
